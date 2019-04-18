@@ -1,6 +1,12 @@
 [submodule "libft"]
 	path = libft
 	url = https://github.com/wax42/libft
+	branch = master
 [submodule "parser_json"]
 	path = parser_json
 	url = https://github.com/wax42/parser_json.git
+	branch = master
+[submodule "libmath"]
+	path = libmath
+	url = https://github.com/wax42/libmath.git
+	branch = master
